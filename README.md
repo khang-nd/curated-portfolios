@@ -1,2 +1,7 @@
-# curated-portfolio
-My curated list of web portfolios that amaze me
+# The awesomeness
+
+(in no particular order)
+
+- https://bruno-simon.com/
+- https://albinotonnina.com/
+- http://www.rleonardi.com/interactive-resume/
